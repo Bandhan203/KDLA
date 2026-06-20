@@ -1,4 +1,4 @@
-import imgImageKdlaLogo from "./c4c5ab36957deca3b2d4974f1e71747b662a85ce.png";
+import imgImageKdlaLogo from "../Logo/kdla-logo-3.png";
 import imgImage from "./f92929bfb9d65a2f16b26bc6d3e37a5bc6cea4d5.png";
 import imgImageMdAnwarZahidBhuiyan from "./a983163fb3d1b34625c04175674b1f4f8c508679.png";
 import imgImageMohammadAbulKalamKhan from "./c0927a8871bdf05a65b4b79bd5cb95a1a40ccbfb.png";
@@ -18,7 +18,7 @@ function Text() {
   return (
     <div className="h-[30px] relative shrink-0 w-[125.281px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <div className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[0] left-0 not-italic text-[12px] text-[rgba(255,255,255,0.9)] top-0 tracking-[1.8px] uppercase whitespace-nowrap">
+        <div className="[word-break:break-word] absolute font-google-sans leading-[0] left-0 not-italic text-[12px] text-[rgba(255,255,255,0.9)] top-0 tracking-[1.8px] uppercase whitespace-nowrap">
           <p className="leading-[15px] mb-0">Khulna Divisional</p>
           <p className="leading-[15px]">Lawyers Association</p>
         </div>
@@ -42,7 +42,7 @@ function Link() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[49.953px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Home</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Home</p>
       </div>
     </div>
   );
@@ -52,7 +52,7 @@ function Link1() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[54.969px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">About</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">About</p>
       </div>
     </div>
   );
@@ -62,7 +62,7 @@ function Link2() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[78.375px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Committee</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Committee</p>
       </div>
     </div>
   );
@@ -72,7 +72,7 @@ function Link3() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[62.563px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Member</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Member</p>
       </div>
     </div>
   );
@@ -82,7 +82,7 @@ function Link4() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[90.047px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Office Staff</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Office Staff</p>
       </div>
     </div>
   );
@@ -92,7 +92,7 @@ function Link5() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[65.516px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Gallery</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Gallery</p>
       </div>
     </div>
   );
@@ -102,7 +102,7 @@ function Link6() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[59.016px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Notice</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Notice</p>
       </div>
     </div>
   );
@@ -112,7 +112,7 @@ function Link7() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[50.766px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">News</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">News</p>
       </div>
     </div>
   );
@@ -122,7 +122,7 @@ function Link8() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[60.844px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Events</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Events</p>
       </div>
     </div>
   );
@@ -132,7 +132,7 @@ function Link9() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[70.719px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Election</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Election</p>
       </div>
     </div>
   );
@@ -142,7 +142,7 @@ function Link10() {
   return (
     <div className="h-[28.5px] relative shrink-0 w-[66.813px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Contact</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-[12px] not-italic text-[11px] text-[rgba(255,255,255,0.7)] top-[5px] tracking-[1.32px] uppercase whitespace-nowrap">Contact</p>
       </div>
     </div>
   );
@@ -172,7 +172,7 @@ function Link11() {
   return (
     <div className="bg-white h-[31.75px] relative shrink-0 w-[149.203px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[15.75px] left-[16px] not-italic text-[#1a4275] text-[10.5px] top-[8px] tracking-[1.89px] uppercase whitespace-nowrap">Member Registration</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[15.75px] left-[16px] not-italic text-[#1a4275] text-[10.5px] top-[8px] tracking-[1.89px] uppercase whitespace-nowrap">Member Registration</p>
       </div>
     </div>
   );
@@ -205,7 +205,7 @@ function Text1() {
     <div className="bg-[#1a4275] h-full relative shrink-0" data-name="Text">
       <div className="flex flex-row items-center size-full">
         <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center px-[16px] py-[10px] relative size-full">
-          <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] not-italic relative shrink-0 text-[10px] text-white tracking-[2px] uppercase whitespace-nowrap">Exclusive</p>
+          <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[10px] text-white tracking-[2px] uppercase whitespace-nowrap">Exclusive</p>
         </div>
       </div>
     </div>
@@ -296,7 +296,7 @@ function Container6() {
 function Paragraph() {
   return (
     <div className="h-[15px] relative shrink-0 w-[182.109px]" data-name="Paragraph">
-      <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] left-0 not-italic text-[10px] text-[rgba(255,255,255,0.5)] top-[-1px] tracking-[4px] uppercase whitespace-nowrap">Est. Since Independence</p>
+      <p className="[word-break:break-word] absolute font-google-sans leading-[15px] left-0 not-italic text-[10px] text-[rgba(255,255,255,0.5)] top-[-1px] tracking-[4px] uppercase whitespace-nowrap">Est. Since Independence</p>
     </div>
   );
 }
@@ -314,7 +314,7 @@ function ParagraphMargin() {
 function Heading() {
   return (
     <div className="h-[140px] relative shrink-0 w-[276.094px]" data-name="Heading 1">
-      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[140px] left-[138.5px] not-italic text-[140px] text-center text-white top-0 tracking-[5.6px] uppercase whitespace-nowrap">KDLA</p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-google-sans leading-[140px] left-[138.5px] not-italic text-[140px] text-center text-white top-0 tracking-[5.6px] uppercase whitespace-nowrap">KDLA</p>
     </div>
   );
 }
@@ -332,7 +332,7 @@ function Heading1Margin() {
 function Paragraph1() {
   return (
     <div className="h-[30px] relative shrink-0 w-[658.188px]" data-name="Paragraph">
-      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[30px] left-[329.5px] not-italic text-[20px] text-[rgba(255,255,255,0.6)] text-center top-0 tracking-[10px] uppercase whitespace-nowrap">Khulna Divisional Lawyers Association</p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-google-sans leading-[30px] left-[329.5px] not-italic text-[20px] text-[rgba(255,255,255,0.6)] text-center top-0 tracking-[10px] uppercase whitespace-nowrap">Khulna Divisional Lawyers Association</p>
     </div>
   );
 }
@@ -365,7 +365,7 @@ function Text2() {
   return (
     <div className="h-[32px] relative shrink-0 w-[75.109px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">34,445</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">34,445</p>
       </div>
     </div>
   );
@@ -375,7 +375,7 @@ function Text3() {
   return (
     <div className="h-[13.5px] relative shrink-0 w-[78.313px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Total Members</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Total Members</p>
       </div>
     </div>
   );
@@ -394,7 +394,7 @@ function Text4() {
   return (
     <div className="h-[32px] relative shrink-0 w-[27.781px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">23</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">23</p>
       </div>
     </div>
   );
@@ -404,7 +404,7 @@ function Text5() {
   return (
     <div className="h-[13.5px] relative shrink-0 w-[57.359px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">EC 2026–27</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">EC 2026–27</p>
       </div>
     </div>
   );
@@ -423,7 +423,7 @@ function Text6() {
   return (
     <div className="h-[32px] relative shrink-0 w-[75.109px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">26,224</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">26,224</p>
       </div>
     </div>
   );
@@ -433,7 +433,7 @@ function Text7() {
   return (
     <div className="h-[13.5px] relative shrink-0 w-[73.484px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Male Members</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Male Members</p>
       </div>
     </div>
   );
@@ -452,7 +452,7 @@ function Text8() {
   return (
     <div className="h-[32px] relative shrink-0 w-[61.219px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">8,219</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">8,219</p>
       </div>
     </div>
   );
@@ -462,7 +462,7 @@ function Text9() {
   return (
     <div className="h-[13.5px] relative shrink-0 w-[85.484px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Female Members</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Female Members</p>
       </div>
     </div>
   );
@@ -481,7 +481,7 @@ function Text10() {
   return (
     <div className="h-[32px] relative shrink-0 w-[75.109px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">21,562</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[32px] left-0 not-italic text-[32px] text-white top-0 whitespace-nowrap">21,562</p>
       </div>
     </div>
   );
@@ -491,7 +491,7 @@ function Text11() {
   return (
     <div className="h-[13.5px] relative shrink-0 w-[64.922px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Total Books</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[13.5px] left-0 not-italic text-[9px] text-[rgba(255,255,255,0.55)] top-0 tracking-[2.25px] uppercase whitespace-nowrap">Total Books</p>
       </div>
     </div>
   );
@@ -552,7 +552,7 @@ function Heading2() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[105.781px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Member Search</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Member Search</p>
       </div>
     </div>
   );
@@ -578,7 +578,7 @@ function Label() {
   return (
     <div className="relative shrink-0 w-full" data-name="Label">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Name</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Name</p>
       </div>
     </div>
   );
@@ -610,7 +610,7 @@ function Label1() {
   return (
     <div className="relative shrink-0 w-full" data-name="Label">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Member ID</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Member ID</p>
       </div>
     </div>
   );
@@ -642,7 +642,7 @@ function Label2() {
   return (
     <div className="relative shrink-0 w-full" data-name="Label">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Phone</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Phone</p>
       </div>
     </div>
   );
@@ -673,7 +673,7 @@ function Field2() {
 function Button() {
   return (
     <div className="bg-[#1a4275] content-stretch flex flex-col items-center justify-center py-[10px] relative shrink-0 w-[220px]" data-name="Button">
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-center text-white tracking-[2.2px] uppercase whitespace-nowrap">Search</p>
+      <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-center text-white tracking-[2.2px] uppercase whitespace-nowrap">Search</p>
     </div>
   );
 }
@@ -728,7 +728,7 @@ function Heading3() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[118.625px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Search Voter No</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Search Voter No</p>
       </div>
     </div>
   );
@@ -754,7 +754,7 @@ function Label3() {
   return (
     <div className="relative shrink-0 w-full" data-name="Label">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Member ID</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#5a7499] text-[10px] tracking-[2px] uppercase whitespace-nowrap">Member ID</p>
       </div>
     </div>
   );
@@ -785,7 +785,7 @@ function Field3() {
 function Button1() {
   return (
     <div className="bg-[#1a4275] content-stretch flex flex-col items-center justify-center py-[10px] relative shrink-0 w-[220px]" data-name="Button">
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-center text-white tracking-[2.2px] uppercase whitespace-nowrap">Search</p>
+      <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-center text-white tracking-[2.2px] uppercase whitespace-nowrap">Search</p>
     </div>
   );
 }
@@ -838,7 +838,7 @@ function Heading4() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[41.375px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Event</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Event</p>
       </div>
     </div>
   );
@@ -864,7 +864,7 @@ function Paragraph2() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Time left: 30 Day 20 Hours</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Time left: 30 Day 20 Hours</p>
       </div>
     </div>
   );
@@ -932,7 +932,7 @@ function Heading5() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[119.578px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Important Forms</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Important Forms</p>
       </div>
     </div>
   );
@@ -1069,7 +1069,7 @@ function Heading1() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[224.891px]" data-name="Heading 2">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.85px] uppercase whitespace-nowrap">Executive Committee 2026–27</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.85px] uppercase whitespace-nowrap">Executive Committee 2026–27</p>
       </div>
     </div>
   );
@@ -1113,7 +1113,7 @@ function Paragraph5() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[16.25px] not-italic relative shrink-0 text-[#1a4275] text-[13px] text-center tracking-[1.3px] uppercase whitespace-nowrap">MD. ANWAR ZAHID BHUIYAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.25px] not-italic relative shrink-0 text-[#1a4275] text-[13px] text-center tracking-[1.3px] uppercase whitespace-nowrap">MD. ANWAR ZAHID BHUIYAN</p>
       </div>
     </div>
   );
@@ -1123,7 +1123,7 @@ function Paragraph6() {
   return (
     <div className="h-[19px] relative shrink-0 w-[146.047px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[4px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#2563eb] text-[10px] text-center tracking-[2.5px] uppercase whitespace-nowrap">PRESIDENT</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#2563eb] text-[10px] text-center tracking-[2.5px] uppercase whitespace-nowrap">PRESIDENT</p>
       </div>
     </div>
   );
@@ -1171,7 +1171,7 @@ function Paragraph7() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[16.25px] not-italic relative shrink-0 text-[#1a4275] text-[13px] text-center tracking-[1.3px] uppercase whitespace-nowrap">MOHAMMAD ABUL KALAM KHAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.25px] not-italic relative shrink-0 text-[#1a4275] text-[13px] text-center tracking-[1.3px] uppercase whitespace-nowrap">MOHAMMAD ABUL KALAM KHAN</p>
       </div>
     </div>
   );
@@ -1181,7 +1181,7 @@ function Paragraph8() {
   return (
     <div className="h-[19px] relative shrink-0 w-[163.641px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[4px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] not-italic relative shrink-0 text-[#2563eb] text-[10px] text-center tracking-[2.5px] uppercase whitespace-nowrap">GENERAL SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[15px] not-italic relative shrink-0 text-[#2563eb] text-[10px] text-center tracking-[2.5px] uppercase whitespace-nowrap">GENERAL SECRETARY</p>
       </div>
     </div>
   );
@@ -1249,7 +1249,7 @@ function Paragraph9() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. REZAUL KARIM CHOWDHURY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. REZAUL KARIM CHOWDHURY</p>
       </div>
     </div>
   );
@@ -1259,7 +1259,7 @@ function Paragraph10() {
   return (
     <div className="h-[12px] relative shrink-0 w-[107.422px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SR. VICE-PRESIDENT</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SR. VICE-PRESIDENT</p>
       </div>
     </div>
   );
@@ -1307,7 +1307,7 @@ function Paragraph11() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ABUL KALAM AZAD</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ABUL KALAM AZAD</p>
       </div>
     </div>
   );
@@ -1317,7 +1317,7 @@ function Paragraph12() {
   return (
     <div className="h-[12px] relative shrink-0 w-[75.391px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">VICE-PRESIDENT</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">VICE-PRESIDENT</p>
       </div>
     </div>
   );
@@ -1365,7 +1365,7 @@ function Paragraph13() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MOHAMMAD ANISUZZAMAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MOHAMMAD ANISUZZAMAN</p>
       </div>
     </div>
   );
@@ -1375,7 +1375,7 @@ function Paragraph14() {
   return (
     <div className="h-[12px] relative shrink-0 w-[86.5px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">TREASURER</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">TREASURER</p>
       </div>
     </div>
   );
@@ -1423,7 +1423,7 @@ function Paragraph15() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ELTUT MISH SAUDAGAR</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ELTUT MISH SAUDAGAR</p>
       </div>
     </div>
   );
@@ -1433,7 +1433,7 @@ function Paragraph16() {
   return (
     <div className="h-[12px] relative shrink-0 w-[90.469px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SR. ASST. G. SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SR. ASST. G. SECRETARY</p>
       </div>
     </div>
   );
@@ -1481,7 +1481,7 @@ function Paragraph17() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. MAHADI HASAN JEWEL</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. MAHADI HASAN JEWEL</p>
       </div>
     </div>
   );
@@ -1491,7 +1491,7 @@ function Paragraph18() {
   return (
     <div className="h-[12px] relative shrink-0 w-[88.438px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">ASST. G. SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">ASST. G. SECRETARY</p>
       </div>
     </div>
   );
@@ -1539,7 +1539,7 @@ function Paragraph19() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">KHANDAKAR MAKSUDUL HASAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">KHANDAKAR MAKSUDUL HASAN</p>
       </div>
     </div>
   );
@@ -1549,7 +1549,7 @@ function Paragraph20() {
   return (
     <div className="h-[12px] relative shrink-0 w-[102.406px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">LIBRARY SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">LIBRARY SECRETARY</p>
       </div>
     </div>
   );
@@ -1597,7 +1597,7 @@ function Paragraph21() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MARJIA HERA</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MARJIA HERA</p>
       </div>
     </div>
   );
@@ -1607,7 +1607,7 @@ function Paragraph22() {
   return (
     <div className="h-[12px] relative shrink-0 w-[73.813px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">CULTURAL SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">CULTURAL SECRETARY</p>
       </div>
     </div>
   );
@@ -1655,7 +1655,7 @@ function Paragraph23() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ABJAL HOSSAIN MRIDA</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ABJAL HOSSAIN MRIDA</p>
       </div>
     </div>
   );
@@ -1665,7 +1665,7 @@ function Paragraph24() {
   return (
     <div className="h-[12px] relative shrink-0 w-[89.172px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">OFFICE SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">OFFICE SECRETARY</p>
       </div>
     </div>
   );
@@ -1713,7 +1713,7 @@ function Paragraph25() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. SOHEL KHAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. SOHEL KHAN</p>
       </div>
     </div>
   );
@@ -1723,7 +1723,7 @@ function Paragraph26() {
   return (
     <div className="h-[12px] relative shrink-0 w-[65.594px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SPORTS SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SPORTS SECRETARY</p>
       </div>
     </div>
   );
@@ -1771,7 +1771,7 @@ function Paragraph27() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">A.S.M FEROZ</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">A.S.M FEROZ</p>
       </div>
     </div>
   );
@@ -1781,7 +1781,7 @@ function Paragraph28() {
   return (
     <div className="h-[12px] relative shrink-0 w-[96.438px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SOCIAL WELFARE SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">SOCIAL WELFARE SECRETARY</p>
       </div>
     </div>
   );
@@ -1829,7 +1829,7 @@ function Paragraph29() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">SAFIKUL ISLAM (SHOFIKE)</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">SAFIKUL ISLAM (SHOFIKE)</p>
       </div>
     </div>
   );
@@ -1839,7 +1839,7 @@ function Paragraph30() {
   return (
     <div className="h-[12px] relative shrink-0 w-[86.484px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">ICT SECRETARY</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">ICT SECRETARY</p>
       </div>
     </div>
   );
@@ -1887,7 +1887,7 @@ function Paragraph31() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">FARZANA YEASMIN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">FARZANA YEASMIN</p>
       </div>
     </div>
   );
@@ -1897,7 +1897,7 @@ function Paragraph32() {
   return (
     <div className="h-[12px] relative shrink-0 w-[66.453px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
       </div>
     </div>
   );
@@ -1945,7 +1945,7 @@ function Paragraph33() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. NAZRUL ISLAM (MAMUN)</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. NAZRUL ISLAM (MAMUN)</p>
       </div>
     </div>
   );
@@ -1955,7 +1955,7 @@ function Paragraph34() {
   return (
     <div className="h-[12px] relative shrink-0 w-[93.844px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
       </div>
     </div>
   );
@@ -2003,7 +2003,7 @@ function Paragraph35() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ADNAN RAHMAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[11.25px] not-italic relative shrink-0 text-[#1a4275] text-[9px] text-center tracking-[0.45px] uppercase whitespace-nowrap">MD. ADNAN RAHMAN</p>
       </div>
     </div>
   );
@@ -2013,7 +2013,7 @@ function Paragraph36() {
   return (
     <div className="h-[12px] relative shrink-0 w-[66.5px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
+        <p className="[word-break:break-word] font-google-sans leading-[10px] not-italic relative shrink-0 text-[#2563eb] text-[8px] text-center tracking-[0.8px] uppercase whitespace-nowrap">EXECUTIVE MEMBER</p>
       </div>
     </div>
   );
@@ -2076,7 +2076,7 @@ function Link15() {
     <div className="h-full relative shrink-0 w-[220.797px]" data-name="Link">
       <div aria-hidden className="absolute border border-[rgba(26,66,117,0.3)] border-solid inset-0 pointer-events-none" />
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] left-[25px] not-italic text-[#5a7499] text-[10px] top-[10px] tracking-[2.5px] uppercase whitespace-nowrap">View All Committee Members</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[15px] left-[25px] not-italic text-[#5a7499] text-[10px] top-[10px] tracking-[2.5px] uppercase whitespace-nowrap">View All Committee Members</p>
       </div>
     </div>
   );
@@ -2121,7 +2121,7 @@ function Heading6() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[47.375px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Notice</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Notice</p>
       </div>
     </div>
   );
@@ -2147,7 +2147,7 @@ function Paragraph37() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">11</p>
+        <p className="[word-break:break-word] font-google-sans leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">11</p>
       </div>
     </div>
   );
@@ -2157,7 +2157,7 @@ function Paragraph38() {
   return (
     <div className="h-[10px] relative shrink-0 w-[33.594px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
+        <p className="[word-break:break-word] font-google-sans leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
       </div>
     </div>
   );
@@ -2200,7 +2200,7 @@ function Paragraph40() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">02</p>
+        <p className="[word-break:break-word] font-google-sans leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">02</p>
       </div>
     </div>
   );
@@ -2210,7 +2210,7 @@ function Paragraph41() {
   return (
     <div className="h-[10px] relative shrink-0 w-[33.594px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
+        <p className="[word-break:break-word] font-google-sans leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
       </div>
     </div>
   );
@@ -2254,7 +2254,7 @@ function Paragraph43() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">02</p>
+        <p className="[word-break:break-word] font-google-sans leading-[14px] not-italic relative shrink-0 text-[#1a4275] text-[14px] text-center whitespace-nowrap">02</p>
       </div>
     </div>
   );
@@ -2264,7 +2264,7 @@ function Paragraph44() {
   return (
     <div className="h-[10px] relative shrink-0 w-[33.594px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[2px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
+        <p className="[word-break:break-word] font-google-sans leading-[8px] not-italic relative shrink-0 text-[#5a7499] text-[8px] text-center tracking-[0.96px] uppercase whitespace-nowrap">Jun 2026</p>
       </div>
     </div>
   );
@@ -2344,7 +2344,7 @@ function Heading7() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[178.594px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Latest Association News</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Latest Association News</p>
       </div>
     </div>
   );
@@ -2388,7 +2388,7 @@ function Paragraph46() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Jun 15, 2026 · Announcement</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Jun 15, 2026 · Announcement</p>
       </div>
     </div>
   );
@@ -2448,7 +2448,7 @@ function Paragraph48() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Jun 10, 2026 · Library</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[#1a4275] text-[9px] tracking-[1.8px] uppercase whitespace-nowrap">Jun 10, 2026 · Library</p>
       </div>
     </div>
   );
@@ -2535,7 +2535,7 @@ function Heading8() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[147.25px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">{`President's Address`}</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">{`President's Address`}</p>
       </div>
     </div>
   );
@@ -2579,7 +2579,7 @@ function Paragraph50() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[#1a4275] text-[11px] text-center tracking-[1.1px] uppercase whitespace-nowrap">MD. ANWAR ZAHID BHUIYAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[#1a4275] text-[11px] text-center tracking-[1.1px] uppercase whitespace-nowrap">MD. ANWAR ZAHID BHUIYAN</p>
       </div>
     </div>
   );
@@ -2589,7 +2589,7 @@ function Paragraph51() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[#2563eb] text-[9px] text-center tracking-[1.8px] uppercase whitespace-nowrap">President</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[#2563eb] text-[9px] text-center tracking-[1.8px] uppercase whitespace-nowrap">President</p>
       </div>
     </div>
   );
@@ -2669,7 +2669,7 @@ function Heading9() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[148.156px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">{`Secretary's Address`}</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">{`Secretary's Address`}</p>
       </div>
     </div>
   );
@@ -2713,7 +2713,7 @@ function Paragraph53() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[#1a4275] text-[11px] text-center tracking-[1.1px] uppercase whitespace-nowrap">MOHAMMAD ABUL KALAM KHAN</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[#1a4275] text-[11px] text-center tracking-[1.1px] uppercase whitespace-nowrap">MOHAMMAD ABUL KALAM KHAN</p>
       </div>
     </div>
   );
@@ -2723,7 +2723,7 @@ function Paragraph54() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[#2563eb] text-[9px] text-center tracking-[1.8px] uppercase whitespace-nowrap">General Secretary</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[#2563eb] text-[9px] text-center tracking-[1.8px] uppercase whitespace-nowrap">General Secretary</p>
       </div>
     </div>
   );
@@ -2803,7 +2803,7 @@ function Heading10() {
   return (
     <div className="h-[16.5px] relative shrink-0 w-[116.563px]" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Important Links</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[16.5px] left-0 not-italic text-[#1a4275] text-[11px] top-[-1px] tracking-[3.3px] uppercase whitespace-nowrap">Important Links</p>
       </div>
     </div>
   );
@@ -2995,7 +2995,7 @@ function Heading11() {
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center relative size-full">
         <Text18 />
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.6)] tracking-[3.3px] uppercase whitespace-nowrap">Committees</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.6)] tracking-[3.3px] uppercase whitespace-nowrap">Committees</p>
         <Text19 />
       </div>
     </div>
@@ -3006,7 +3006,7 @@ function Button2() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-0 px-[17px] py-[11px] top-0 w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #1</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #1</p>
     </div>
   );
 }
@@ -3015,7 +3015,7 @@ function Button3() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-[304px] px-[17px] py-[11px] top-0 w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #2</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #2</p>
     </div>
   );
 }
@@ -3024,7 +3024,7 @@ function Button4() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-0 px-[17px] py-[11px] top-[45.75px] w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #3</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #3</p>
     </div>
   );
 }
@@ -3033,7 +3033,7 @@ function Button5() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-[304px] px-[17px] py-[11px] top-[45.75px] w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #4</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #4</p>
     </div>
   );
 }
@@ -3042,7 +3042,7 @@ function Button6() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-0 px-[17px] py-[11px] top-[91.5px] w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #5</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #5</p>
     </div>
   );
 }
@@ -3051,7 +3051,7 @@ function Button7() {
   return (
     <div className="absolute content-stretch flex flex-col h-[37.75px] items-start justify-center left-[304px] px-[17px] py-[11px] top-[91.5px] w-[296px]" data-name="Button">
       <div aria-hidden className="absolute border border-[rgba(255,255,255,0.15)] border-solid inset-0 pointer-events-none" />
-      <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #6</p>
+      <p className="[word-break:break-word] font-google-sans leading-[15.75px] not-italic relative shrink-0 text-[10.5px] text-[rgba(255,255,255,0.7)] tracking-[1.575px] uppercase whitespace-nowrap">DISCIPLINE COMMITTEE #6</p>
     </div>
   );
 }
@@ -3101,7 +3101,7 @@ function Heading12() {
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center relative size-full">
         <Text20 />
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.6)] tracking-[3.3px] uppercase whitespace-nowrap">Quick Access</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.6)] tracking-[3.3px] uppercase whitespace-nowrap">Quick Access</p>
         <Text21 />
       </div>
     </div>
@@ -3285,7 +3285,7 @@ function Heading13() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Quick Links</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Quick Links</p>
       </div>
     </div>
   );
@@ -3368,7 +3368,7 @@ function Heading14() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Contact Us</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Contact Us</p>
       </div>
     </div>
   );
@@ -3429,7 +3429,7 @@ function Heading15() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Medium',sans-serif] leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Payment Partners</p>
+        <p className="[word-break:break-word] font-google-sans leading-[16.5px] not-italic relative shrink-0 text-[11px] text-[rgba(255,255,255,0.5)] tracking-[3.3px] uppercase whitespace-nowrap">Payment Partners</p>
       </div>
     </div>
   );
@@ -3490,7 +3490,7 @@ function Paragraph59() {
   return (
     <div className="h-[34px] relative shrink-0 w-[284px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start pt-[20px] relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[13.5px] not-italic relative shrink-0 text-[9px] text-[rgba(255,255,255,0.35)] tracking-[1.35px] uppercase whitespace-nowrap">{`Designed & Developed by`}</p>
+        <p className="[word-break:break-word] font-google-sans leading-[13.5px] not-italic relative shrink-0 text-[9px] text-[rgba(255,255,255,0.35)] tracking-[1.35px] uppercase whitespace-nowrap">{`Designed & Developed by`}</p>
       </div>
     </div>
   );
@@ -3500,7 +3500,7 @@ function Paragraph60() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Barlow_Condensed:Regular',sans-serif] leading-[18px] not-italic relative shrink-0 text-[12px] text-[rgba(255,255,255,0.7)] tracking-[1.2px] uppercase whitespace-nowrap">Codetree</p>
+        <p className="[word-break:break-word] font-google-sans leading-[18px] not-italic relative shrink-0 text-[12px] text-[rgba(255,255,255,0.7)] tracking-[1.2px] uppercase whitespace-nowrap">Codetree</p>
       </div>
     </div>
   );
@@ -3544,7 +3544,7 @@ function Paragraph62() {
   return (
     <div className="h-[15px] relative shrink-0 w-[25.672px]" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="[word-break:break-word] absolute font-['Barlow_Condensed:Regular',sans-serif] leading-[15px] left-0 not-italic text-[10px] text-[rgba(255,255,255,0.35)] top-[-1px] tracking-[2px] uppercase whitespace-nowrap">KDLA</p>
+        <p className="[word-break:break-word] absolute font-google-sans leading-[15px] left-0 not-italic text-[10px] text-[rgba(255,255,255,0.35)] top-[-1px] tracking-[2px] uppercase whitespace-nowrap">KDLA</p>
       </div>
     </div>
   );

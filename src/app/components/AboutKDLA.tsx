@@ -1,83 +1,90 @@
 import React from 'react';
-import { Target, Eye, ShieldCheck } from 'lucide-react';
+import { Scale, BookOpen, Users } from 'lucide-react';
 
-const MISSION_POINTS = [
-  "Protecting and advancing professional rights, interests, and welfare of members.",
-  "Promoting access to justice with free/affordable legal aid to the underprivileged.",
-  "Enhancing professional excellence through continuous legal education and training.",
-  "Encouraging legal research, publications, and intellectual discourse.",
-  "Responding to regional needs with humanitarian assistance during natural disasters.",
-  "Supporting holistic development by promoting sports, literature, culture, and history.",
-  "Strengthening unity among Khulna Division lawyers in Dhaka through reunions and events.",
-  "Building relationships with national and international legal/academic institutions.",
-  "Promoting the use of technology and modern legal tools for efficiency.",
-  "Encouraging pro bono work and legal awareness for citizens' rights.",
-  "Promoting equality, inclusiveness, and a supportive environment for all members.",
-  "Developing welfare programs like healthcare and emergency aid for members."
+const PILLARS = [
+  {
+    icon: Scale,
+    title: "Uphold Justice",
+    description: "Protecting the professional rights, dignity, and welfare of every member while championing equal access to justice for all.",
+  },
+  {
+    icon: BookOpen,
+    title: "Foster Excellence",
+    description: "Elevating the legal profession through continuous education, research, training, and the promotion of cutting-edge legal tools.",
+  },
+  {
+    icon: Users,
+    title: "Build Community",
+    description: "Strengthening unity among Khulna Division lawyers through professional solidarity, cultural engagement, and humanitarian service.",
+  },
 ];
 
 export default function AboutKDLA() {
   return (
-    <section className="py-24 bg-slate-50 border-t border-slate-100">
+    <section className="py-28 bg-[#F8FAFC] border-t border-slate-100">
       <div className="max-w-7xl mx-auto px-6">
-        
-        {/* About Us */}
-        <div className="max-w-4xl mx-auto text-center mb-24">
-          <h2 className="font-['Barlow_Condensed',sans-serif] text-4xl md:text-5xl font-medium text-slate-900 mb-6 uppercase tracking-wide">
-            About KDLA
-          </h2>
-          <div className="w-16 h-1 bg-[#D4AF37] mx-auto mb-8 rounded-full" />
-          <p className="text-lg text-slate-600 leading-relaxed mb-6">
-            The Khulna Divisional Lawyers Association (KDLA) is a distinguished professional body representing lawyers practicing in Dhaka who trace their roots to the Khulna Division. The Association brings together members from the ten districts of the region—Khulna, Bagerhat, Satkhira, Jessore, Narail, Kushtia, Jhenaidah, Magura, Meherpur, and Chuadanga—fostering a strong sense of regional identity, unity, and professional solidarity.
-          </p>
-          <p className="text-lg text-slate-600 leading-relaxed mb-6">
-            Established in 1996, KDLA has consistently worked to uphold the dignity, integrity, and excellence of the legal profession. Over the years, it has grown into a vibrant and respected platform that supports its members through professional collaboration, mentorship, and welfare initiatives. KDLA is committed not only to the advancement of its members but also to broader social responsibility. The Association actively promotes access to justice, engages in humanitarian efforts, and contributes to the legal, social, and cultural development of the Khulna Division.
-          </p>
-          <p className="text-lg text-slate-600 leading-relaxed">
-            With a legacy of dedication and a vision for the future, KDLA continues to strengthen professional bonds among its members while making meaningful contributions to the legal community and society at large.
-          </p>
-        </div>
 
-        {/* Vision & Mission Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          
-          {/* Vision */}
-          <div className="bg-white p-10 rounded-3xl shadow-[0_8px_30px_rgba(15,23,42,0.04)] border border-slate-100 flex flex-col">
-            <div className="size-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-8">
-              <Eye className="size-7" />
-            </div>
-            <h3 className="font-['Barlow_Condensed',sans-serif] text-3xl font-medium text-slate-900 mb-6 uppercase tracking-wide">
-              Our Vision
-            </h3>
-            <p className="text-slate-600 leading-relaxed">
-              The Khulna Divisional Lawyers Association (KDLA) envisions a united, empowered, and highly respected legal fraternity representing all ten districts of Khulna Division. We aspire to build a professional community where lawyers uphold the highest standards of excellence, ethical integrity, and social responsibility. As a model professional body, KDLA aims to foster unwavering solidarity among its members, champion access to justice for all, and serve as a catalyst for the socio-economic, legal, and cultural advancement of southern Bangladesh. Through enduring regional bonds and collaborative spirit, KDLA seeks to nurture visionary leadership within the legal community and continuously enhance the dignity, credibility, and effectiveness of the legal profession both at the national level and beyond.
+        {/* About Header */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-end mb-24">
+          <div>
+            <span className="text-[11px] font-bold tracking-[0.25em] uppercase text-[#C5A880] mb-4 block">About KDLA</span>
+            <h2 className="font-serif text-4xl md:text-5xl font-semibold text-[#0F172A] leading-tight">
+              A Century of Legal<br />Excellence in Bangladesh
+            </h2>
+          </div>
+          <div>
+            <p className="text-[16px] text-slate-600 leading-[1.9] mb-6">
+              The Khulna Divisional Lawyers Association (KDLA) is a distinguished professional body representing lawyers from the ten districts of Khulna Division, established in 1996. We have consistently worked to uphold the dignity, integrity, and excellence of the legal profession.
             </p>
+            <a href="#" className="inline-flex items-center gap-2 text-[13px] font-semibold tracking-wider text-[#0F172A] hover:text-[#C5A880] transition-colors uppercase group">
+              Our Full Story <span className="inline-block transition-transform group-hover:translate-x-1">→</span>
+            </a>
+          </div>
+        </div>
+
+        {/* 3-Pillar Mission Grid */}
+        <div>
+          <div className="flex items-center gap-4 mb-12">
+            <div className="h-px flex-1 bg-slate-200" />
+            <span className="text-[11px] font-bold tracking-[0.25em] uppercase text-slate-400">Our Mission</span>
+            <div className="h-px flex-1 bg-slate-200" />
           </div>
 
-          {/* Mission */}
-          <div className="bg-[#0D0D0D] p-10 rounded-3xl shadow-[0_8px_30px_rgba(15,23,42,0.08)] border border-slate-800 flex flex-col relative overflow-hidden">
-            {/* Subtle background glow */}
-            <div className="absolute top-0 right-0 w-64 h-64 bg-[#D4AF37]/10 blur-3xl rounded-full pointer-events-none" />
-            
-            <div className="size-14 bg-white/10 text-[#D4AF37] rounded-2xl flex items-center justify-center mb-8 backdrop-blur-md">
-              <Target className="size-7" />
-            </div>
-            <h3 className="font-['Barlow_Condensed',sans-serif] text-3xl font-medium text-white mb-8 uppercase tracking-wide">
-              Our Mission
-            </h3>
-            <ul className="flex flex-col gap-4">
-              {MISSION_POINTS.map((point, idx) => (
-                <li key={idx} className="flex items-start gap-4 text-slate-300 text-sm md:text-base">
-                  <div className="shrink-0 mt-1 size-5 rounded-full bg-[#D4AF37]/20 flex items-center justify-center">
-                    <ShieldCheck className="size-3 text-[#D4AF37]" />
-                  </div>
-                  <span className="leading-snug">{point}</span>
-                </li>
-              ))}
-            </ul>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-slate-200">
+            {PILLARS.map((pillar, idx) => (
+              <div
+                key={idx}
+                className="group bg-white p-10 md:p-12 hover:bg-[#0F172A] transition-colors duration-500 cursor-default"
+              >
+                <div className="size-14 rounded-none bg-[#F8FAFC] group-hover:bg-white/10 flex items-center justify-center mb-8 transition-colors duration-500">
+                  <pillar.icon className="size-6 text-[#C5A880]" />
+                </div>
+                <h3 className="font-google-sans text-2xl font-semibold text-[#0F172A] group-hover:text-white mb-4 transition-colors duration-500">
+                  {pillar.title}
+                </h3>
+                <p className="text-[15px] text-slate-500 group-hover:text-slate-300 leading-relaxed transition-colors duration-500">
+                  {pillar.description}
+                </p>
+                <div className="mt-8 w-8 h-[2px] bg-[#C5A880] group-hover:w-16 transition-all duration-500" />
+              </div>
+            ))}
           </div>
-          
         </div>
+
+        {/* Vision Quote Block */}
+        <div className="mt-24 relative overflow-hidden bg-[#0F172A] p-12 md:p-20">
+          <div className="absolute inset-0 opacity-5 pointer-events-none" style={{
+            backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(255,255,255,0.5) 39px, rgba(255,255,255,0.5) 40px), repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(255,255,255,0.5) 39px, rgba(255,255,255,0.5) 40px)'
+          }} />
+          <div className="relative z-10 max-w-3xl">
+            <div className="w-10 h-[2px] bg-[#C5A880] mb-8" />
+            <p className="font-google-sans text-2xl md:text-3xl text-white leading-relaxed italic font-medium mb-8">
+              "KDLA envisions a united, empowered, and highly respected legal fraternity — serving as a catalyst for the socio-economic, legal, and cultural advancement of southern Bangladesh."
+            </p>
+            <span className="text-[11px] font-bold tracking-[0.25em] uppercase text-[#C5A880]">Our Vision</span>
+          </div>
+        </div>
+
       </div>
     </section>
   );
