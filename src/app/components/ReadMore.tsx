@@ -20,7 +20,7 @@ export default function ReadMore({ text, maxLength = 150, className = "" }: Read
       {displayText}{' '}
       <button 
         onClick={() => setIsExpanded(!isExpanded)}
-        className="text-blue-600 font-medium hover:text-blue-700 hover:underline focus:outline-none transition-colors"
+        className="text-[#C5A880] font-semibold hover:text-[#0F172A] hover:underline focus:outline-none transition-colors"
       >
         {isExpanded ? "Show less" : "Read more"}
       </button>

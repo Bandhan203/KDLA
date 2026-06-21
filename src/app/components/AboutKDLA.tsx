@@ -1,5 +1,6 @@
 import React from 'react';
 import { Scale, BookOpen, Users } from 'lucide-react';
+import { Link } from 'react-router';
 
 const PILLARS = [
   {
@@ -36,9 +37,9 @@ export default function AboutKDLA() {
             <p className="text-[16px] text-slate-600 leading-[1.9] mb-6">
               The Khulna Divisional Lawyers Association (KDLA) is a distinguished professional body representing lawyers from the ten districts of Khulna Division, established in 1996. We have consistently worked to uphold the dignity, integrity, and excellence of the legal profession.
             </p>
-            <a href="#" className="inline-flex items-center gap-2 text-[13px] font-semibold tracking-wider text-[#0F172A] hover:text-[#C5A880] transition-colors uppercase group">
+            <Link to="/about" className="inline-flex items-center gap-2 text-[13px] font-semibold tracking-wider text-[#0F172A] hover:text-[#C5A880] transition-colors uppercase group">
               Our Full Story <span className="inline-block transition-transform group-hover:translate-x-1">→</span>
-            </a>
+            </Link>
           </div>
         </div>
 
@@ -59,7 +60,7 @@ export default function AboutKDLA() {
                 <div className="size-14 rounded-none bg-[#F8FAFC] group-hover:bg-white/10 flex items-center justify-center mb-8 transition-colors duration-500">
                   <pillar.icon className="size-6 text-[#C5A880]" />
                 </div>
-                <h3 className="font-google-sans text-2xl font-semibold text-[#0F172A] group-hover:text-white mb-4 transition-colors duration-500">
+                <h3 className="font-serif text-2xl font-semibold text-[#0F172A] group-hover:text-white mb-4 transition-colors duration-500">
                   {pillar.title}
                 </h3>
                 <p className="text-[15px] text-slate-500 group-hover:text-slate-300 leading-relaxed transition-colors duration-500">
@@ -78,7 +79,7 @@ export default function AboutKDLA() {
           }} />
           <div className="relative z-10 max-w-3xl">
             <div className="w-10 h-[2px] bg-[#C5A880] mb-8" />
-            <p className="font-google-sans text-2xl md:text-3xl text-white leading-relaxed italic font-medium mb-8">
+            <p className="font-serif text-2xl md:text-3xl text-white leading-relaxed italic font-medium mb-8">
               "KDLA envisions a united, empowered, and highly respected legal fraternity — serving as a catalyst for the socio-economic, legal, and cultural advancement of southern Bangladesh."
             </p>
             <span className="text-[11px] font-bold tracking-[0.25em] uppercase text-[#C5A880]">Our Vision</span>

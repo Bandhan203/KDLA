@@ -1,7 +1,8 @@
 import React from 'react';
-const imgPresident = "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=256&auto=format&fit=crop";
-const imgGenSec = "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=256&auto=format&fit=crop";
 
+// Real local images mapped to President and General Secretary
+const imgPresident = "/images/Screenshot 2026-06-18 194153.png";
+const imgGenSec = "/images/Screenshot 2026-06-18 194259.png";
 
 const LEADERS = [
   {
@@ -47,7 +48,7 @@ export default function Speeches() {
 
               <div className="flex items-center gap-5 mb-10 relative z-10">
                 <div className="size-20 rounded-full overflow-hidden border-2 border-[#F8FAFC] shrink-0 shadow-md">
-                  <img src={leader.img} alt={leader.name} className="w-full h-full object-cover" />
+                  <img src={leader.img} alt={leader.name} className="w-full h-full object-cover object-top" />
                 </div>
                 <div>
                   <p className="text-[11px] font-bold tracking-[0.25em] uppercase text-[#C5A880] mb-1">{leader.role}</p>
@@ -58,13 +59,13 @@ export default function Speeches() {
               </div>
 
               <blockquote className="relative z-10">
-                <p className="font-google-sans text-xl md:text-2xl text-[#0F172A] leading-relaxed italic font-medium mb-8">
+                <p className="font-serif text-xl md:text-2xl text-[#0F172A] leading-relaxed italic font-medium mb-8">
                   "{leader.quote}"
                 </p>
               </blockquote>
 
               <a
-                href="#"
+                href="/about#leadership"
                 className="relative z-10 inline-flex items-center gap-2 text-[13px] font-semibold tracking-wider text-[#0F172A] hover:text-[#C5A880] transition-colors uppercase group/link"
               >
                 Read Full Message
